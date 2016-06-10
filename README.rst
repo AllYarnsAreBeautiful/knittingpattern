@@ -21,6 +21,9 @@ ayab
    :target: https://pypi.python.org/pypi/knittingpattern
    :alt: Issue Count
 
+.. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat
+   :target: http://allyarnsarebeautifulknittingpattern.readthedocs.io 
+   :alt: Documentation
 
 Installation
 ============ 
